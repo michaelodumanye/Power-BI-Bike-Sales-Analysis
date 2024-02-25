@@ -32,3 +32,4 @@ The dataset used for this project is Bike Sales Data from Azubi Africa.
 
 ## Contributors
 Michael Oko Odumanye (https://github.com/michaelodumanye)
+
